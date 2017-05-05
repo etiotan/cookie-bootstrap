@@ -20,5 +20,5 @@ Less, Bootstrap
 
 Although I used Bootstrap when I first started coding, I eventually dropped it because I wanted to learn vanilla CSS and understand it. Many companies do use Bootstrap and it isn't the most difficult to learn, so I felt I should do a project with it.
 
-**https://etiotan.github.io/cookie-cutter
+https://etiotan.github.io/cookie-bootstrap/
 
